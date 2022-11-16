@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1DA1F2"
+    tools:context=".Dliscence">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Driving Liscence"
+        android:textSize="30sp"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/button7"
+        android:text="Requirement
+\n-Citizenship Certificate
+\n-Liscense for Different catageory require different age requirement
+\n\nSteps:
+\n-Fill out the form online for liscense
+\n-Do blood test,eye test and medical reports
+\n-You will be called to click photo in office
+\n-Then you will get date for written exam and trial exam"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-condensed"
+
+        android:layout_marginTop="30dp"/>
+</RelativeLayout>

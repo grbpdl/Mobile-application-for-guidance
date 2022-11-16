@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1DA1F2"
+    tools:context=".Cship">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ctizenship"
+        android:textSize="30sp"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/button7"
+        android:text="Requirement:
+\n1.Recently Clicked pp size photos-4
+\n2.Your Academics Certificates
+\n3.Birth Certificate
+\n4.Gaurdians Citizenship
+
+\nSteps:
+\n1.First you have to write an application to Your VDC/Municipality Ward Head.
+\n2.Fill out the form and get verified by the Head of the ward
+\n3.Take the verified document to the Nagrita Karyalaya to get your citizenship.
+\n4.Go with your parents as their signature is required."
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-condensed"
+
+        android:layout_marginTop="30dp"/>
+</RelativeLayout>

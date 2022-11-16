@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1DA1F2"
+    tools:context=".Career5">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Artificial intelligence"
+        android:textSize="30sp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/button7"
+        android:layout_marginTop="30dp"
+        android:fontFamily="sans-serif-condensed"
+        android:text="Basic Fundamentals
+\n-Matrix and Linear Lgebra
+,Database basics
+,Tabular data
+,Data frames and series
+,Data formats
+or Regular Expressions(RegEx)
+
+ \n\n\Python Programming
+\n-Python basics
+,Important libaries
+,Virtual environment
+or Jupyter Notebooks
+
+ \n\nData Sources
+\n-Data mining
+,Web scraping
+,Awesome Public Database
+or Kaggle
+"
+        android:textColor="#fff"
+
+        android:textSize="20sp" />
+</RelativeLayout>

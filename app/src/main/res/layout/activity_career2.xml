@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1DA1F2"
+    tools:context=".Career2">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Data scientist"
+        android:textSize="30sp"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/button7"
+        android:text="Basic Learning:
+
+\n-Mathematics and Statistics
+
+
+\n\nProgramming:
+  \n-Python and R
+
+\n\n-Big Data and External Data Visualization Tools
+
+
+\n-Machine learning and Deep learning
+
+
+\n-Linux and Version Control
+
+ \n-Learn to scrape data from websites"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginTop="30dp"/>
+</RelativeLayout>

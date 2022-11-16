@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Roadmap"
+        tools:targetApi="31">
+        <activity
+            android:name=".Career5"
+            android:exported="false"
+            android:label="@string/title_activity_career5"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Career4"
+            android:exported="false"
+            android:label="@string/title_activity_career4"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Career3"
+            android:exported="false"
+            android:label="@string/title_activity_career3"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Career2"
+            android:exported="false"
+            android:label="@string/title_activity_career2"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Career1"
+            android:exported="false"
+            android:label="@string/title_activity_career1"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Pil"
+            android:exported="false"
+            android:label="@string/title_activity_pil"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Air"
+            android:exported="false"
+            android:label="@string/title_activity_air"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".C_a"
+            android:exported="false"
+            android:label="@string/title_activity_ca"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Doc"
+            android:exported="false"
+            android:label="@string/title_activity_doc"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Eng"
+            android:exported="false"
+            android:label="@string/title_activity_eng"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Dliscence"
+            android:exported="false"
+            android:label="@string/title_activity_dliscence"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Vcard"
+            android:exported="false"
+            android:label="@string/title_activity_vcard"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Pport"
+            android:exported="false"
+            android:label="@string/title_activity_pport"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Cship"
+            android:exported="false"
+            android:label="@string/title_activity_cship"
+            android:theme="@style/Theme.Roadmap.NoActionBar" />
+        <activity
+            android:name=".Screensuggest"
+            android:exported="false"
+            android:parentActivityName=".Screen2" />
+        <activity
+            android:name=".Screengoverment"
+            android:exported="false"
+            android:parentActivityName=".Screen2" />
+        <activity
+            android:name=".Screencareer"
+            android:exported="false"
+            android:parentActivityName=".Screen2" />
+        <activity
+            android:name=".Screenacademic"
+            android:exported="false"
+            android:parentActivityName=".Screen2" />
+        <activity
+            android:name=".Screen2"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="false"
+            android:parentActivityName=".MainActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1DA1F2"
+    tools:context=".Career4">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Software developer"
+        android:textSize="30sp"
+        android:gravity="center"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/button7"
+        android:layout_marginTop="30dp"
+        android:fontFamily="sans-serif-condensed"
+
+        android:text="Select a language:
+\n-Python
+,Java
+,C#
+,Javascript
+,C++ or Ruby
+\n(select any one of them and be professional)
+
+ \n\nEarn A degree in computer field:
+\n-Software Engineering(Recommended)
+\n-IT Engineering\n-Computer Engineering
+\n-OR Any other IT field.
+"
+        android:textColor="#fff"
+        android:textSize="20sp" />
+</RelativeLayout>

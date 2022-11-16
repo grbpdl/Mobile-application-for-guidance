@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#1DA1F2"
+    tools:context=".Doc">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/button7"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Doctor"
+        android:textSize="30sp"
+        android:gravity="center"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/button7"
+        android:text="1.Take Optional math and Computer Subjects in Class 8,9,10 in Your Choice Subject.
+\n\n2.Take Science Stream for Reading +2.
+\n\n3.Take Biology in 11th and 12th.
+\n\n4.Math is optional for 12th.
+\n\n5.Then After passing +2 you can prepare for Compettive exams held by IOM.
+\n\n6.Then study MBBS for Bachleors"
+        android:textColor="#fff"
+        android:textSize="20sp"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginTop="30dp"/>
+</RelativeLayout>

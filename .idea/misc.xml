@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/btn_gradient.xml" value="0.231" />
+        <entry key="app/src/main/res/layout-w1240dp/1.xml" value="0.1780958721704394" />
+        <entry key="app/src/main/res/layout-w1240dp/content_scrolling.xml" value="0.1780958721704394" />
+        <entry key="app/src/main/res/layout-w936dp/content_scrolling.xml" value="0.208984375" />
+        <entry key="app/src/main/res/layout/activity_air.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_ca.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_career1.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_career2.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_career3.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_career4.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_career5.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_cship.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_dliscence.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_doc.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_eng.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_pil.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_pport.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_screen2.xml" value="0.264" />
+        <entry key="app/src/main/res/layout/activity_screenacademic.xml" value="0.4" />
+        <entry key="app/src/main/res/layout/activity_screencareer.xml" value="0.2791791363830697" />
+        <entry key="app/src/main/res/layout/activity_screengoverment.xml" value="0.17005208333333333" />
+        <entry key="app/src/main/res/layout/activity_screensuggest.xml" value="0.3111888111888112" />
+        <entry key="app/src/main/res/layout/activity_signup.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/activity_vcard.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/career1.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/career2.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/career3.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/career4.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/career5.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/charter_accountant.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/citizenship.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/content_scrolling.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/doctor.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/driving_liscense.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/engineering.xml" value="0.2604166666666667" />
+        <entry key="app/src/main/res/layout/hello.xml" value="0.2786458333333333" />
+        <entry key="app/src/main/res/layout/passport.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/pilot.xml" value="0.2604166666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
